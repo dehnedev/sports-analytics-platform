@@ -38,7 +38,7 @@ These features capture team strength, momentum, and basic game context.
 ## **Tech Stack**
 **ML & Data:** Python, scikit‑learn, pandas, nfl_data_py  
 **Backend:** FastAPI, Uvicorn  
-**Tools:** VS Code, GitHub, Windows 11  
+**Tools:** VS Code, GitHub 
 
 ---
 
@@ -110,6 +110,10 @@ Call:
 - Add MLB support  
 
 ---
+
+
+[Watch Milestone 1 on YouTube](https://youtu.be/Wqn1CApZlu8)
+
 
 ## **Author**
 **Jack D**  
