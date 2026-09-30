@@ -111,6 +111,10 @@ Call:
 
 ---
 
+## **Current Progress**
+I’ve built the full machine‑learning pipeline for my NFL analytics project. The system loads real NFL data, engineers features via pandas, and trains a logistic regression model to predict home‑team win probabilities. I also set up a FastAPI backend with a endpoint that uses the trained model to generate results based on team inputs. At this point, the training pipeline and prediction engine are functional, and the next step is connecting everything to a frontend interface and refining my model further. 
+
+
 
 [Watch Milestone 1 on YouTube](https://youtu.be/Wqn1CApZlu8)
 
